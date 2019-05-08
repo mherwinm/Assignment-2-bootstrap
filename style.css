@@ -1,0 +1,93 @@
+.navbar {
+    background-color: #fff601;
+}
+
+.navbar-dark .navbar-brand {
+    font-size: 35px;
+    font-weight: normal;
+    color: black;
+}
+
+.navbar-dark .navbar-brand:hover {
+    color: black;
+}
+
+a {
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.gallery {
+
+    padding-bottom: 50px;
+    background-color: #e6e6e6;
+}
+
+fieldset {
+    background-color: #6b6b6b;
+    margin-top: -30px;
+}
+
+legend {
+    text-align: center;
+    width: 400px;
+    background-color: black;
+    color: yellow;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.work-title {
+    color: yellow;
+}
+
+.work-body {
+    color: white;
+
+}
+
+.abouts {
+    background-color: #e6e6e6;
+    padding-top: 20px;
+}
+
+.bl-title {
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.footer-lining {
+    background-color: black;
+    color: white;
+}
+
+.footer-lining a {
+    color: yellow;
+    text-decoration: none;
+}
+
+.main-footer {
+    background-color: #3c3c3c;
+    color: white;
+    padding-left: 35px;
+}
+
+.shortcut a {
+    color: white;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.shortcut a:hover {
+    color: #0056b3;;
+}
+
+.shortcut li {
+    list-style: none;
+}
